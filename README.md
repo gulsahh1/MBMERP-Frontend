@@ -61,8 +61,17 @@ Proje `.env` dosyası ile çalışır:
 <img width="1435" height="649" alt="kategori" src="https://github.com/user-attachments/assets/d38f516d-4a98-4baa-90e7-eafc3bc51331" />
 
 ## Order Management 
-<img width="894" height="620" alt="siparisdetay" src="https://github.com/user-attachments/assets/95a9852c-7114-46b6-a7a7-1ec303a8f974" />
 <img width="1452" height="706" alt="Siparis" src="https://github.com/user-attachments/assets/ea802dc4-8802-4329-95ae-493e8abd81a4" />
+
+## Sale Management
+<img width="1476" height="684" alt="satıs" src="https://github.com/user-attachments/assets/37b603f1-6ae4-490d-8d71-c913048336ad" />
+
+## Stock Management
+<img width="1462" height="647" alt="stok" src="https://github.com/user-attachments/assets/29aa8a2d-31f4-428e-9c1d-1e70b01c3747" />
+<img width="1033" height="855" alt="stokdetay" src="https://github.com/user-attachments/assets/f33757ca-dc05-429a-b62b-596c03d5db88" />
+
+
+
 
 
 
