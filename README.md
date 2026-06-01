@@ -42,3 +42,7 @@ Frontend modüler ve ölçeklenebilir yapıdadır:
 ## 🔐 Environment Variables
 
 Proje `.env` dosyası ile çalışır:
+
+## 🔐 Login Page
+
+![Login Screen](C:\Users\sahin\OneDrive\Masaüstü\Proje Görüntüleri/login.png)
