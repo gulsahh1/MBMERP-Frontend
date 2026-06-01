@@ -73,7 +73,8 @@ Proje `.env` dosyası ile çalışır:
 <img width="1033" height="855" alt="stokdetay" src="https://github.com/user-attachments/assets/f33757ca-dc05-429a-b62b-596c03d5db88" />
 
 ## Notification
-<img width="1517" height="437" alt="Bildirim" src="https://github.com/user-attachments/assets/0e072094-de31-4003-b2a1-262d0ee08115" />
+<img width="1615" height="490" alt="notification" src="https://github.com/user-attachments/assets/bb14357c-dd04-47f8-b44b-5ba5049dc8be" />
+
 
 
 
