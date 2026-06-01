@@ -3,6 +3,8 @@
 MBM ERP sisteminin frontend uygulamasıdır.  
 Modern web teknolojileri ile geliştirilmiş, backend API ve real-time SignalR entegrasyonu olan yönetim panelidir.
 
+Bogus kullanılarak fake veri üretilmiştir 
+
 ---
 
 ## 🚀 Teknolojiler
