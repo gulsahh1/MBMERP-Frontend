@@ -45,4 +45,5 @@ Proje `.env` dosyası ile çalışır:
 
 ## 🔐 Login Page
 
-![Login Screen](C:\Users\sahin\OneDrive\Masaüstü\Proje Görüntüleri/login.png)
+<img width="1895" height="939" alt="login" src="https://github.com/user-attachments/assets/48ee16f1-5620-4c71-99b5-cfa379756e71" />
+
