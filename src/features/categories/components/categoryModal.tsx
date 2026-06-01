@@ -1,0 +1,45 @@
+type Props = {
+  open: boolean;
+  onClose: () => void;
+  children: React.ReactNode;
+};
+
+export default function CategoryModal({
+  open,
+  onClose,
+  children,
+}: Props) {
+  if (!open) return null;
+
+  return (
+    <div className="absolute inset-0 z-50 flex items-start justify-center bg-black/30 dark:bg-black/50 backdrop-blur-sm p-6 pt-10">
+
+      <div
+        className="relative w-full max-w-md rounded-3xl
+        bg-white dark:bg-gray-900
+        border border-gray-200 dark:border-gray-700
+        pt-14 px-6 pb-6
+        shadow-2xl animate-in fade-in zoom-in duration-200
+        max-h-[90vh]"
+      >
+
+        {/* Kapat Butonu */}
+        <button
+          onClick={onClose}
+          className="absolute right-4 top-4 rounded-full p-2
+          text-gray-500 dark:text-gray-400
+          transition
+          hover:bg-gray-100 dark:hover:bg-gray-800
+          hover:text-gray-800 dark:hover:text-white"
+          title="Kapat"
+        >
+          ✕
+        </button>
+
+        {children}
+
+      </div>
+
+    </div>
+  );
+}
