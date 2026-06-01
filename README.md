@@ -6,6 +6,22 @@ Modern web teknolojileri ile geliştirilmiş, backend API ve real-time SignalR e
 Bogus kullanılarak fake veri üretilmiştir 
 
 ---
+## ⚠️ Proje Durumu & Gelecek Güncellemeler
+
+Bu proje aktif olarak geliştirilmeye devam etmektedir.
+
+Mevcut sürüm **Versiyon 1 (MVP)** olup, yalnızca temel işlevleri içermektedir.  
+Sistem, ilerleyen süreçte kapsamlı güncellemeler alacaktır.
+
+### 🚀 Versiyon 2’de Planlananlar
+- Yapay zekâ (AI) entegrasyonu  
+- Akıllı öneri ve otomasyon sistemleri  
+- Performans ve mimari iyileştirmeler  
+- UI/UX geliştirmeleri  
+- Yeni modül ve özellik eklemeleri  
+
+### 🧠 Not
+Versiyon 2 ile birlikte projeye **AI destekli özellikler** eklenecektir. Bu özellikler mevcut sürümde bulunmamaktadır.
 
 ## 🚀 Teknolojiler
 
