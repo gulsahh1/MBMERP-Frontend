@@ -70,23 +70,24 @@ Proje `.env` dosyası ile çalışır:
 <img width="1888" height="952" alt="lightmode" src="https://github.com/user-attachments/assets/e3c99979-8e2a-48d1-9fcd-ec515cd9c9ed" /><img width="1892" height="939" alt="Dashboard" src="https://github.com/user-attachments/assets/4ffc2324-d0b4-413d-bf0b-f4dbcc072443" />
 
 ## Product Management
-<img width="1480" height="716" alt="product" src="https://github.com/user-attachments/assets/712ca636-97f2-4bc9-bb5e-a5608fcb1d65" />
+<img width="1383" height="795" alt="product" src="https://github.com/user-attachments/assets/d0995f26-a006-4aed-b89b-a95da39bfb4d" />
 
 ## Customer Management
-<img width="1505" height="685" alt="musteri" src="https://github.com/user-attachments/assets/bb2b94ca-5c2c-4ffe-b48e-22787aad062c" />
+<img width="1414" height="575" alt="Musteri" src="https://github.com/user-attachments/assets/fcf9727c-0883-4432-92e0-5f9b0b347c31" />
 
 ## Category Management
-<img width="1435" height="649" alt="kategori" src="https://github.com/user-attachments/assets/d38f516d-4a98-4baa-90e7-eafc3bc51331" />
+<img width="1408" height="801" alt="kategori" src="https://github.com/user-attachments/assets/e182bc29-1bd2-4e3d-9428-7bc370599640" />
 
 ## Order Management 
-<img width="1452" height="706" alt="Siparis" src="https://github.com/user-attachments/assets/ea802dc4-8802-4329-95ae-493e8abd81a4" />
+<img width="1392" height="790" alt="siparis" src="https://github.com/user-attachments/assets/4c753071-a1e5-4063-92eb-bf7730adb0b4" />
 
 ## Sale Management
-<img width="1476" height="684" alt="satıs" src="https://github.com/user-attachments/assets/37b603f1-6ae4-490d-8d71-c913048336ad" />
+<img width="1435" height="785" alt="satıs" src="https://github.com/user-attachments/assets/f9d84efd-dbd5-4152-a1cb-b3698fee7e50" />
+<img width="1101" height="745" alt="satısdetay" src="https://github.com/user-attachments/assets/a9259d0f-7591-447a-86af-877176429c32" />
 
 ## Stock Management
-<img width="1462" height="647" alt="stok" src="https://github.com/user-attachments/assets/29aa8a2d-31f4-428e-9c1d-1e70b01c3747" />
-<img width="1033" height="855" alt="stokdetay" src="https://github.com/user-attachments/assets/f33757ca-dc05-429a-b62b-596c03d5db88" />
+<img width="1381" height="792" alt="stock" src="https://github.com/user-attachments/assets/2de1ce89-37c7-496a-8856-0d9dad5a8115" />
+<img width="1077" height="830" alt="stock detay" src="https://github.com/user-attachments/assets/7ad4b827-3900-4b9c-a58c-1ad5383a1681" />
 
 ## Notification
 <img width="1615" height="490" alt="notification" src="https://github.com/user-attachments/assets/bb14357c-dd04-47f8-b44b-5ba5049dc8be" />
